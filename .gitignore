@@ -1,0 +1,15 @@
+.vscode
+.import
+.idea
+*.iml
+out
+target
+build
+gradlew
+gradlew.bat
+local.properties
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+!gradle/wrapper/gradle-wrapper.jar.md5
+!gradle/wrapper/gradle-wrapper.jar.sha1
+!gradle/wrapper/gradle-wrapper.jar.sha256
